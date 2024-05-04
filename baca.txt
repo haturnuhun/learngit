@@ -1,1 +1,3 @@
-belajar menggunakan git lagi menggunakan console
+belajar menggunakan git lagi menggunakan consolie
+
+pesan ini ada menggunakan git
