@@ -1,1 +1,5 @@
 Belajar Menggunakan GIT
+
+
+
+hal ini akan menyebabkan error yang baru dengan baik dan benar maka akan muncul konflik
